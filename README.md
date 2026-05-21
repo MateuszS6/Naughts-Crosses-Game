@@ -1,7 +1,7 @@
-# NaughtsAndCrosses (Tic Tac Toe)
+# Naughts and Crosses
 
 ## Overview
-NaughtsAndCrosses is a classic Tic Tac Toe game reimagined with a modern Java GUI interface. Developed as a personal project, this application is not just a fun game to play but also serves as a platform for advancing my Java programming skills, exploring new algorithms, and enhancing creativity through aesthetically pleasing visual design.
+Naughts and Crosses is the classic Tic Tac Toe game reimagined with a modern Java GUI interface. Developed as a personal project, this application is not just a fun game to play but also serves as a platform for advancing my Java programming skills, exploring new algorithms, and enhancing creativity through aesthetically pleasing visual design.
 
 ## Screenshots
 
